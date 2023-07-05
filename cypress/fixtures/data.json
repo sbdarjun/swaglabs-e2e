@@ -1,0 +1,10 @@
+{
+  "standardUser": {
+    "email": "standard_user",
+    "password": "secret_sauce"
+  },
+  "lockedOutUser": {
+    "email": "locked_out_user",
+    "password": "secret_sauce"
+  }
+}

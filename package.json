@@ -1,0 +1,19 @@
+{
+  "name": "swaglabs-e2e",
+  "version": "1.0.0",
+  "description": "Swag Labs end to end test in cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.15.0",
+    "faker": "^6.6.6",
+    "mochawesome": "^7.1.3",
+    "typescript": "^5.1.3"
+  }
+}
